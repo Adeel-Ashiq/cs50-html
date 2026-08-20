@@ -1,0 +1,74 @@
+[
+  {
+    "id": "act-tpa-5",
+    "type": "act",
+    "act_name": "Transfer of Property Act, 1882",
+    "section": "Section 5",
+    "title": "Transfer of property defined",
+    "text": "In the following sections transfer of property means an act by which a living person conveys property, in present or in future, to one or more other living persons, or to himself and one or more other living persons; and to transfer property is to perform such act. Living person includes a company or association or body of individuals, whether incorporated or not.",
+    "source": "Transfer of Property Act, 1882"
+  },
+  {
+    "id": "act-tpa-54",
+    "type": "act",
+    "act_name": "Transfer of Property Act, 1882",
+    "section": "Section 54",
+    "title": "Sale defined",
+    "text": "Sale is a transfer of ownership in exchange for a price paid or promised or part-paid and part-promised. Such transfer, in the case of tangible immovable property of the value of one hundred rupees and upwards, or in the case of a reversion or other intangible thing, can be made only by a registered instrument. In the case of tangible immovable property of a value less than one hundred rupees, such transfer may be made either by a registered instrument or by delivery of the property.",
+    "source": "Transfer of Property Act, 1882"
+  },
+  {
+    "id": "act-lra-42",
+    "type": "act",
+    "act_name": "Land Revenue Act, 1967 (Punjab)",
+    "section": "Section 42",
+    "title": "Presumption as to entries in records",
+    "text": "An entry made in a record-of-rights in accordance with the law for the time being in force, or in an annual record in accordance with the provisions of this Chapter and the rules made under this Act, shall be presumed to be true until the contrary is proved or a new entry is lawfully substituted therefor.",
+    "source": "West Pakistan Land Revenue Act, 1967"
+  },
+  {
+    "id": "act-lra-53",
+    "type": "act",
+    "act_name": "Land Revenue Act, 1967 (Punjab)",
+    "section": "Section 53",
+    "title": "Suit for declaration of right",
+    "text": "If any person considers himself aggrieved as to any right of which he is in possession by an entry made in a record-of-rights or in an annual record under this Chapter, he may institute a suit for a declaration of his right under Chapter VI of the Specific Relief Act, 1877.",
+    "source": "West Pakistan Land Revenue Act, 1967"
+  },
+  {
+    "id": "act-mflo-4",
+    "type": "act",
+    "act_name": "Muslim Family Laws Ordinance, 1961",
+    "section": "Section 4",
+    "title": "Succession",
+    "text": "In the event of the death of any son or daughter of the propositus before the opening of succession, the children of such son or daughter, if any, living at the time the succession opens, shall per stirpes receive a share equivalent to the share which such son or daughter, as the case may be, would have received if alive.",
+    "source": "Muslim Family Laws Ordinance, 1961"
+  },
+  {
+    "id": "act-cpc-9",
+    "type": "act",
+    "act_name": "Code of Civil Procedure, 1908",
+    "section": "Section 9",
+    "title": "Courts to try all civil suits unless barred",
+    "text": "The Courts shall (subject to the provisions herein contained) have jurisdiction to try all suits of a civil nature excepting suits of which their cognizance is either expressly or impliedly barred.",
+    "source": "Code of Civil Procedure, 1908"
+  },
+  {
+    "id": "act-sra-42",
+    "type": "act",
+    "act_name": "Specific Relief Act, 1877",
+    "section": "Section 42",
+    "title": "Discretion of court as to declaration of status or right",
+    "text": "Any person entitled to any legal character, or to any right as to any property, may institute a suit against any person denying, or interested to deny, his title to such character or right, and the Court may in its discretion make therein a declaration that he is so entitled, and the plaintiff need not in such suit ask for any further relief.",
+    "source": "Specific Relief Act, 1877"
+  },
+  {
+    "id": "act-qanoon-e-shahadat-117",
+    "type": "act",
+    "act_name": "Qanun-e-Shahadat Order, 1984",
+    "section": "Article 117",
+    "title": "Burden of proof",
+    "text": "Whoever desires any Court to give judgment as to any legal right or liability dependent on the existence of facts which he asserts, must prove that those facts exist. When a person is bound to prove the existence of any fact, it is said that the burden of proof lies on that person.",
+    "source": "Qanun-e-Shahadat Order, 1984"
+  }
+]

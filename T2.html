@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+   <head>
+        <title>Task 2</title>
+   </head>
+   <body>
+         <p>Hello HTML</p>
+         <button id="change" style="background-color: rgb(235, 227, 227); color:rgb(16, 15, 15)">Change Text</button>
+         <script>
+            document.querySelector('#change').addEventListener('click', function() {
+                document.querySelector('p').textContent = "Welcome to Javascript";
+            });
+
+         </script>
+   </body>

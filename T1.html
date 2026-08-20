@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+   <head>
+        <title>Task 1</title>
+   </head>
+   <body>
+         <button id="color" style="background-color: rgb(235, 227, 227); color:rgb(16, 15, 15)">Change Color</button>
+         <script>
+            let body= document.querySelector('body');
+            document.querySelector('#color').addEventListener('click', function() {
+                body.style.backgroundColor = "red"; 
+            });
+            document.querySelector('#color').addEventListener('dblclick', function() {
+                body.style.backgroundColor = "blue"; 
+            });
+            document.querySelector('#color').addEventListener('mouseover', function() {
+                body.style.backgroundColor = "green"; 
+            });
+            document.querySelector('#color').addEventListener('mouseout', function() {
+                body.style.backgroundColor = "white"; 
+            });
+            document.querySelector('#color').addEventListener('mousedown', function() {
+                body.style.backgroundColor = "yellow"; 
+            });
+         </script>
+   </body>
+</html>

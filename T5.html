@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+   <head>
+        <title>Task 5</title>
+   </head>
+   <body>
+         <h1>Welcome to HTML,CSS & Javascript</h1>
+         <input type="text" id="inputText" placeholder="Enter color">
+         <button type="button" id="change">Submit</button>
+         <script>
+            document.querySelector('#change').addEventListener('click', function() {
+                let color = document.querySelector('#inputText').value;
+                document.querySelector('h1').style.color = color;
+            });
+        </script>
+   </body>
+</html>

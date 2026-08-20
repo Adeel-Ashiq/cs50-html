@@ -1,0 +1,104 @@
+[
+  {
+    "id": "jud-sc-2018-01",
+    "type": "judgment",
+    "case_name": "Muhammad Nawaz vs. Province of Punjab",
+    "citation": "2018 SCMR 1452",
+    "court": "Supreme Court of Pakistan",
+    "year": 2018,
+    "judges": ["Mr. Justice Mian Saqib Nisar", "Mr. Justice Umar Ata Bandial"],
+    "summary": "In a dispute regarding inheritance of agricultural land between brothers, the Supreme Court held that entries in the revenue record carry presumption of truth under Section 42 of the Land Revenue Act. However, such presumption is rebuttable. The Court emphasized that oral gift (hiba) must be proved through clear evidence of declaration, acceptance and delivery of possession. Mutation alone is not conclusive proof of ownership.",
+    "key_holdings": [
+      "Revenue record entries have presumption of truth but are rebuttable",
+      "Oral gift requires proof of declaration, acceptance and delivery of possession",
+      "Mutation is not a document of title"
+    ],
+    "relevant_acts": ["Land Revenue Act, 1967", "Transfer of Property Act, 1882", "Qanun-e-Shahadat Order, 1984"],
+    "source": "Sample Judgment for Demo (based on common SC principles)"
+  },
+  {
+    "id": "jud-sc-2015-02",
+    "type": "judgment",
+    "case_name": "Ghulam Qadir vs. Sh. Abdul Razzaq",
+    "citation": "2015 SCMR 1123",
+    "court": "Supreme Court of Pakistan",
+    "year": 2015,
+    "judges": ["Mr. Justice Anwar Zaheer Jamali", "Mr. Justice Iqbal Hameedur Rahman"],
+    "summary": "The Court clarified the principles of inheritance under Muslim Personal Law and Section 4 of the Muslim Family Laws Ordinance, 1961. Children of a predeceased son/daughter are entitled to the share their parent would have received. The Court also held that a person in possession of property claiming ownership through inheritance must prove his claim with strong evidence when challenged.",
+    "key_holdings": [
+      "Section 4 MFLO protects share of predeceased child's children",
+      "Burden of proof lies on the person asserting a particular share",
+      "Long standing possession can create strong presumption but not absolute title"
+    ],
+    "relevant_acts": ["Muslim Family Laws Ordinance, 1961", "Specific Relief Act, 1877"],
+    "source": "Sample Judgment for Demo"
+  },
+  {
+    "id": "jud-lhc-2020-03",
+    "type": "judgment",
+    "case_name": "Mst. Fatima Bibi vs. Muhammad Akram & others",
+    "citation": "2020 CLC 1890 (Lahore)",
+    "court": "Lahore High Court",
+    "year": 2020,
+    "judges": ["Mr. Justice Shahid Bilal Hassan"],
+    "summary": "In a suit for declaration and permanent injunction regarding ancestral land, the Lahore High Court held that sisters cannot be deprived of their share in inheritance on the basis of alleged family settlement or oral gift unless the same is proved through reliable evidence. The Court directed mutation of shares according to Islamic law of inheritance.",
+    "key_holdings": [
+      "Female heirs cannot be deprived of inheritance without clear proof of gift or relinquishment",
+      "Family settlement must be proved with clear evidence",
+      "Court can direct revenue authorities to correct mutation"
+    ],
+    "relevant_acts": ["Muslim Family Laws Ordinance, 1961", "Land Revenue Act, 1967", "Specific Relief Act, 1877"],
+    "source": "Sample Judgment for Demo"
+  },
+  {
+    "id": "jud-sc-2012-04",
+    "type": "judgment",
+    "case_name": "Allah Ditta vs. Muhammad Anwar",
+    "citation": "2012 SCMR 987",
+    "court": "Supreme Court of Pakistan",
+    "year": 2012,
+    "judges": ["Mr. Justice Tassaduq Hussain Jillani", "Mr. Justice Mian Saqib Nisar"],
+    "summary": "The Supreme Court reiterated that in cases of co-sharers (joint owners), one co-sharer cannot claim exclusive ownership without partition. A co-sharer in exclusive possession is not a trespasser vis-a-vis other co-sharers. Suit for possession by one co-sharer against another is not maintainable without seeking partition.",
+    "key_holdings": [
+      "Co-sharer cannot claim exclusive title without partition",
+      "Exclusive possession by one co-sharer does not amount to ouster automatically",
+      "Proper remedy is suit for partition"
+    ],
+    "relevant_acts": ["Transfer of Property Act, 1882", "Code of Civil Procedure, 1908", "Specific Relief Act, 1877"],
+    "source": "Sample Judgment for Demo"
+  },
+  {
+    "id": "jud-ihc-2019-05",
+    "type": "judgment",
+    "case_name": "Imran Khan vs. Federation of Pakistan (Property Rights)",
+    "citation": "2019 PLD 450 (Islamabad)",
+    "court": "Islamabad High Court",
+    "year": 2019,
+    "judges": ["Mr. Justice Athar Minallah"],
+    "summary": "While dealing with property rights under Articles 23 and 24 of the Constitution, the Court held that the right to property is a fundamental right and any deprivation must strictly follow the procedure established by law. Arbitrary mutation or cancellation of mutation without notice violates principles of natural justice.",
+    "key_holdings": [
+      "Right to property is fundamental under Articles 23 & 24",
+      "No person can be deprived of property without due process",
+      "Revenue authorities must follow principles of natural justice"
+    ],
+    "relevant_acts": ["Constitution of Pakistan", "Land Revenue Act, 1967"],
+    "source": "Sample Judgment for Demo"
+  },
+  {
+    "id": "jud-shc-2021-06",
+    "type": "judgment",
+    "case_name": "Abdul Sattar vs. Mst. Zainab & Brothers",
+    "citation": "2021 MLD 1120 (Sindh)",
+    "court": "Sindh High Court",
+    "year": 2021,
+    "judges": ["Mr. Justice Muhammad Shafi Siddiqui"],
+    "summary": "In an inheritance dispute between brothers and sister over residential and agricultural property, the Court applied pure Islamic law of inheritance (Sunni Hanafi) and held that after the death of father, the property devolves upon all legal heirs according to their Quranic shares. Any alleged will exceeding one-third is invalid to the extent of excess without consent of heirs.",
+    "key_holdings": [
+      "Islamic law of inheritance applies strictly",
+      "Will cannot exceed 1/3rd without consent of heirs",
+      "All legal heirs are entitled to their shares from the date of death"
+    ],
+    "relevant_acts": ["Muslim Family Laws Ordinance, 1961", "Transfer of Property Act, 1882"],
+    "source": "Sample Judgment for Demo"
+  }
+]

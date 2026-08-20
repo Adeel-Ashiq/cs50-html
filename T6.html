@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Task 6</title>
+    <style>
+        body {
+            background-color: white;
+            color: black;
+        }
+        body.dark {
+            background-color: #1a1a1a;
+            color: #f0f0f0;
+        }
+
+        /* Toggle Switch Styles */
+        .toggle-container {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-top: 30px;
+        }
+
+        .toggle-label {
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .toggle {
+            position: relative;
+            width: 56px;
+            height: 30px;
+            background-color: #ccc;
+            border-radius: 30px;
+           
+        }
+
+        .toggle::after {
+            content: "";
+            position: absolute;
+            top: 3px;
+            left: 3px;
+            width: 24px;
+            height: 24px;
+            background-color: white;
+            border-radius: 50%;
+           
+        }
+
+        /* When Dark Mode is ON */
+        body.dark .toggle {
+            background-color: #4ade80; /* green */
+        }
+
+        body.dark .toggle::after {
+            transform: translateX(26px);
+        }
+    </style>
+</head>
+<body>
+    <h1>HTML</h1>
+    <p>HTML (HyperText Markup Language) is the standard markup language used to structure content on the web. It provides the basic building blocks of a webpage through elements and tags such as headings, paragraphs, links, images, lists, and forms, allowing browsers to interpret and display the content correctly.</p>
+    
+    <h1>CSS</h1>
+    <p>CSS (Cascading Style Sheets) is a style sheet language used to describe the presentation of a document written in HTML. It controls the layout, colors, and fonts of web pages, enabling developers to create visually appealing designs while maintaining the semantic structure of the content.</p>
+    
+    <h1>JS</h1>
+    <p>JavaScript is a programming language that enables interactive web pages. It is an essential part of web development and is used to create dynamic content, handle events, manipulate the DOM, and communicate with servers.</p>
+
+    <!-- New Toggle Switch -->
+    <div class="toggle-container" id="darkModeToggle">
+        <span class="toggle-label">Dark Mode</span>
+        <div class="toggle"></div>
+    </div>
+
+    <script>
+        const toggle = document.getElementById('darkModeToggle');
+        const body = document.body;
+
+        toggle.addEventListener('click', function() {
+            body.classList.toggle('dark');
+        });
+    </script>
+</body>
+</html>
